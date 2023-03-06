@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 - 📫 How to reach me: k.park@nyu.edu
 
