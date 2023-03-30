@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  I'm a senior at NYU CAS studying Computer Science. I'm interested in software & data engineering, product management, and tech consulting.<br>
+  I'm a senior at NYU CAS studying Computer Science. <br> I'm interested in software & data engineering, product management, and tech consulting.<br>
 </p>
 
 ___
