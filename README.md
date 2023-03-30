@@ -19,10 +19,12 @@ ___
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="33" width="46" alt="Python logo" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="33" width="46" alt="Java logo" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="33" width="46" alt="C logo" />
+ <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="33" width="46" alt="SQL logo" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="33" width="46" alt="HTML logo" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="33" width="46" alt="CSS logo" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="33" width="46" alt="Javascript logo" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="33" width="46" alt="Typescript logo" />
+<!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="33" width="46" alt="Typescript logo" /> -->
+<!--  SQL V TS -->
 </div>
 
 
