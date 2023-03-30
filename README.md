@@ -49,7 +49,7 @@ ___
 </h3>
 
 <div align="center">
- 
+ Git, Github, Jira, Confluence, Slack, Visual Studio Code, 
 </div> -->
 
 ___
@@ -60,7 +60,6 @@ ___
 
 <div align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="Python logo" />
- Git, Github, Jira, Confluence, Slack, Visual Studio Code, 
 </div> -->
 
 <!--
