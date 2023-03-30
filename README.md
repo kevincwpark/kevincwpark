@@ -44,9 +44,9 @@ ___
 </div>
 
 
-<h3 align="center">
+<h4 align="center">
  Tools:
-</h3>
+</h4>
 
 <div align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="33" width="46" alt="Git logo" />
