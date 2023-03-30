@@ -40,6 +40,9 @@ ___
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="33" width="46" alt="MaterialUI logo" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" height="33" width="46" alt="OpenCV logo" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="33" width="46" alt="MySQL logo" />
+<!--  <img src="https://www.svgrepo.com/show/353851/hadoop.svg" height="33" width="46" alt="Hadoop logo" />
+
+  -->
 <!--  Apache Hadoop, Apache Pig, Apache Hive, Presto, Spark -->
 </div>
 
@@ -50,7 +53,7 @@ ___
 
 <div align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="33" width="46" alt="Git logo" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="33" width="46" alt="GitHub logo" />
+ <img src="https://www.svgrepo.com/show/475654/github-color.svg" height="33" width="46" alt="GitHub logo" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="33" width="46" alt="Jira logo" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" height="33" width="46" alt="Confluence logo" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="33" width="46" alt="Slack logo" />
