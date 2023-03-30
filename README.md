@@ -44,13 +44,19 @@ ___
 </div>
 
 
-<!-- <h3 align="center">
+<h3 align="center">
  Tools:
 </h3>
 
 <div align="center">
- Git, Github, Jira, Confluence, Slack, Visual Studio Code, 
-</div> -->
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="33" width="46" alt="Git logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="33" width="46" alt="GitHub logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="33" width="46" alt="Jira logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" height="33" width="46" alt="Confluence logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="33" width="46" alt="Slack logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="33" width="46" alt="Visual Studio Code logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="33" width="46" alt="Figma logo" />
+</div>
 
 ___
 
