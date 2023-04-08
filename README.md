@@ -24,7 +24,7 @@ ___
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="33" width="46" alt="CSS logo" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="33" width="46" alt="Javascript logo" />
 <!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="33" width="46" alt="Typescript logo" /> -->
-<!--  Typescript, Scala -->
+<!--  Typescript, Scala  -->
 </div>
 
 
