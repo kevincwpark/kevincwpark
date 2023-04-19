@@ -24,6 +24,9 @@ ___
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="33" width="46" alt="CSS logo" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="33" width="46" alt="Javascript logo" />
 <!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="33" width="46" alt="Typescript logo" /> -->
+<!-- <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="33" height="33"/> 
+<img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="33" height="33"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="33" height="33"/> -->
 <!--  Typescript, Scala  -->
 </div>
 
